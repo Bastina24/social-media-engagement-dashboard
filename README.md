@@ -1,5 +1,5 @@
 # social-media-engagement-dashboard
-# Social Media Engagement Dashboard
+
 
 ## 📌 Project Overview
 This project analyzes social media engagement data and presents insights through an interactive Power BI dashboard.  
